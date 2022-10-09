@@ -1,0 +1,108 @@
+a{
+  color: #EEF1FF;
+  font-family: 'Quicksand', sans-serif;
+  margin: 8px;
+}
+.doggo{
+  transform: rotate(30deg);
+  height: 70%;
+  margin: 40px;
+}
+li{
+  margin: 5px;
+}
+#title{
+  background-color: #FF4C68;
+}
+#features{
+  padding: 5% 10%;
+  background-color: white;
+  position: relative;
+}
+.feat{
+  color: #8f8f8f;
+  padding: 5%;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2{
+  font-size: 3rem;
+  line-height: 5rem;
+  font-weight: bolder;
+  font-family: 'Ubuntu', sans-serif;
+}
+h3{
+  font-weight: bold;
+}
+.container-fluid{
+  padding: 5% 15%;
+  height: 650px;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+.btn{
+  margin: 1rem 0;
+}
+.row1{
+  text-align: center;
+}
+.dog{
+  width: 10%;
+  border-radius: 50%;
+  margin: 15px;
+}
+.icon{
+  color: #ef8172;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#testimonials{
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+}
+#press{
+  background-color: #ff4c68;
+  padding-bottom: 3%;
+  text-align: center;
+}
+.press-logo{
+  margin: 0 3%;
+  width: 10%;
+}
+.carousel-item{
+  padding: 7% 18%;
+}
+
+.price{
+  padding: 1%;
+}
+.hd{
+  text-align: center;
+  margin: 5% auto 0 auto;
+}
+#cta{
+  height: 350px;
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 70px 350px 20px 350px;
+}
+#fter{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+#footer{
+  height: 200px;
+  text-align: center;
+  padding: 80px;
+}
+.lgo{
+  margin: 10px;
+}
